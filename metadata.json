@@ -1,0 +1,6 @@
+{
+  "name": "Atmosphere Weather",
+  "description": "A modern, responsive weather forecast platform featuring real-time conditions, 24-hour hourly projections, 7-day forecasts, and advanced statistical & time-series climatological analysis.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
